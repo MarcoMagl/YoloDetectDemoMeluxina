@@ -3,7 +3,7 @@
 
 ## Demo
 
-![YOLO running on a YouTube live stream](assets/demo.gif)
+![YOLO running on a YouTube live stream](demo.gif)
 
 
 ## Copyright
