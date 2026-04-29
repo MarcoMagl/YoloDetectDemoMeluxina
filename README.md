@@ -1,4 +1,4 @@
-# YoloDetectDemoMeluxina
+# Yolo Detect demo on Meluxina
 
 ![YOLO running on a YouTube live stream](demo.gif)
 
