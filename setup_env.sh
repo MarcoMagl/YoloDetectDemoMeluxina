@@ -1,4 +1,13 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# =====================================================================
+# Copyright (c) 2026 LuxProvide S.A.
+#
+# Property of LuxProvide S.A.
+# Developed by Marco Magliulo.
+#
+# This code may be used, modified, and redistributed freely, provided
+# that this copyright notice and authorship attribution are preserved.
+# =====================================================================
 
 ENV_NAME='yolotest_env'
 

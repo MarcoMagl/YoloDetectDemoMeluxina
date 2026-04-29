@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+"""
+Copyright (c) 2026 LuxProvide S.A.
+
+This code is the property of LuxProvide S.A. and was developed by
+Marco Magliulo.
+
+Permission is granted to reuse, modify, and redistribute this code,
+with or without changes, provided that this notice and attribution
+are retained.
+"""
 import subprocess
 import cv2
 import numpy as np
